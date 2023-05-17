@@ -1,0 +1,32 @@
+_repo: Olivia-b-or-It-was-for-her-sake_70446
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garvice, Charles
+    birthdate: 1850
+    deathdate: 1920
+    gutenberg_agent_id: '3498'
+    url: http://www.gutenberg.org/2009/agents/3498
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Garvice
+description: ''
+gutenberg_issued: '2023-04-02'
+identifiers:
+  gutenberg: '70446'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:705735#?c=&m=&s=&cv=&xywh=-117%2C-649%2C2332%2C4251
+pgterms:marc905: 20220331171115garvice
+pgterms:marc906: '1902'
+pgterms:marc907: us
+production_note: David Edwards, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aUnited States :$bStreet & Smith, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dime novels'
+- !lcsh 'English fiction -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: 'Olivia : $b or, It was for her sake'
+url: http://www.gutenberg.org/ebooks/70446
